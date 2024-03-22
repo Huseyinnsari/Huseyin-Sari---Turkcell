@@ -1,0 +1,469 @@
+.block1 {
+    background-color: #07377E;
+    width: 100½;
+    height: 1570px;
+    margin: -8px;
+    padding: 0px;
+    text-align: center;
+}
+
+.logo img {
+    position: absolute;
+    margin-top: 24px;
+    width: 60px;
+    height: 60px;
+    opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+
+.logo :hover img{
+    opacity: .5;
+}
+
+.foto1 {
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 200px;
+
+}
+
+.foto1 img {
+    border-radius: 15px;
+    border: 1px solid yellow;
+}
+
+.link {
+    position: absolute;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
+i.arrow-left {
+    display: inline-block;
+    background-image: url(arrow-left.png);
+    width: 5px;
+    height: 9px;
+    background-size: cover;
+    margin-right: 5px;
+}
+
+.bosluk1 {
+    height: 750px;
+}
+
+.baslik {
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    display: block;
+    color: #ffcd00;
+}
+
+.bosluk2 {
+    height: 25px;
+}
+
+.paragraf {
+    margin: 0 0 10px;
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+}
+
+.foto2 img {
+    position: absolute;
+    width: 250px;
+    height: auto;
+    margin-left: -600px;
+}
+
+.foto_baslik {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 15px;
+    font-kerning: auto;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    margin-top: 300px;
+    margin-left: -950px;
+}
+
+.foto_aciklama {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 10px;
+    margin-left: -950px;
+}
+
+.foto3 img {
+    position: absolute;
+    width: 250px;
+    height: auto;
+    margin-left: -300px;
+    margin-top: -515px;
+}
+
+.foto_baslik2 {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 15px;
+    font-kerning: auto;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    margin-top: -218px;
+    margin-left: -370px;
+}
+
+.foto_aciklama2 {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 10px;
+    margin-left: -370px;
+}
+
+.foto4 img {
+    position: absolute;
+    width: 250px;
+    height: auto;
+    margin-left: 0px;
+    margin-top: -530px;
+}
+
+.foto_baslik3 {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 15px;
+    font-kerning: auto;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    margin-top: -235px;
+    margin-left: 250px;
+}
+
+.foto_aciklama3 {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 10px;
+    margin-left: 250px;
+}
+
+.foto5 img {
+    position: absolute;
+    width: 250px;
+    height: auto;
+    margin-left: 300px;
+    margin-top: -417px;
+}
+
+.foto_baslik4 {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 15px;
+    font-kerning: auto;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    margin-top: -122px;
+    margin-left: 830px;
+}
+
+.foto_aciklama4 {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 10px;
+    margin-left: 830px;
+}
+
+.block2 {
+    background-color: #f0f1f2;
+    width: 100½;
+    height: 800px;
+    margin: -8px;
+    padding: 0px;
+    text-align: center;
+}
+
+.bosluk3 {
+    height: 60px;
+}
+
+.baslik2 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    display: block;
+}
+
+.paragraf2 {
+    margin: 0 0 10px;
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+}
+
+.foto6 img {
+    position: absolute;
+    width: 250px;
+    height: auto;
+    margin-left: -550px;
+    margin-top: 50px;
+}
+
+.foto_baslik5 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 17px;
+    font-kerning: auto;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    margin-top: 370px;
+    margin-left: -855px;
+}
+
+.foto_aciklama5 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 10px;
+    margin-left: -860px;
+}
+
+.foto7 img {
+    position: absolute;
+    width: 250px;
+    height: auto;
+    margin-left: -265px;
+    margin-top: -390px;
+}
+
+.foto_baslik6 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 17px;
+    font-kerning: auto;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    margin-top: -85px;
+    margin-left: -265px;
+}
+
+.foto_aciklama6 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 10px;
+    margin-left: -265px;
+}
+
+.foto8 img {
+    position: absolute;
+    width: 250px;
+    height: auto;
+    margin-left: 22px;
+    margin-top: -430px;
+}
+
+.foto_baslik7 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 17px;
+    font-kerning: auto;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    margin-top: -125px;
+    margin-left: 300px;
+}
+
+.foto_aciklama7 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+.foto9 img {
+    position: absolute;
+    width: 250px;
+    height: auto;
+    margin-left: 310px;
+    margin-top: -390px;
+}
+
+.foto_baslik8 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 17px;
+    font-kerning: auto;
+    letter-spacing: -0.6px;
+    font-weight: bold;
+    margin-top: -88px;
+    margin-left: 900px;
+}
+
+.foto_aciklama8 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 14px;
+    line-height: 19px;
+    margin-top: 10px;
+    margin-left: 900px;
+}
+
+.block3 {
+    background-color: #fff;
+    width: 100½;
+    height: 900px;
+    margin: -8px;
+    padding: 0px;
+    text-align: center;
+}
+
+.bosluk4 {
+    height: 60px;
+}
+
+.baslik3 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    display: block;
+}
+
+div.slide {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div.slide img {
+    padding: 10px;
+    width: 300px;
+}
+
+.bosluk5 {
+    height: 60px;
+}
+
+.afad p {
+    color: #07377E;
+    font-weight: bold;
+}
+
+.afad a {
+    background-color: #ffcd00;
+    border-radius: 50px;
+    width: 220px;
+    display: block;
+    padding: 6px 0;
+    line-height: 32px;
+    font-size: 16px;
+    font-weight: 800;
+    outline: none;
+    box-sizing: border-box;
+    margin: 20px auto;
+    text-align: center;
+    font-kerning: auto;
+    letter-spacing: -0.1px;
+    text-decoration: none;
+    color: #07377E;
+    font-weight: bold;
+}
+
+.block4 {
+    background-color: #ffcd00;
+    width: 100½;
+    height: 1200px;
+    margin: -8px;
+    padding: 0px;
+    text-align: center;
+}
+
+.bosluk6 {
+    height: 60px;
+}
+
+.baslik4 {
+    color: #07377E;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    display: block;
+}
+
+.slide2 img {
+    opacity: 1;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    border-radius: 15px;
+}
+
+.slide2 :hover img {
+    opacity: .5;
+
+}
+
+div.slide2 {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div.slide2 img {
+    padding: 10px;
+    width: 300px;
+}
+
+.block5 {
+    background-color:#07377E;
+    width: 100½;
+    height: 80px;
+    margin: -8px;
+    padding: 0px;
+    text-align: center;
+}
+.bosluk7 {
+    height: 35px;
+}
+
+.baslik5 {
+    color: white;
+    font-family: "Gill Sans", sans-serif;
+    font-weight: bold;
+    margin-left: -1000px;
+}
+
+.icons i{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.icons{
+    margin-left: 1000px;
+    margin-top: -20px;
+    text-decoration: none;
+}
